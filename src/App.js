@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Git Hub Practice - In devlopment
+          Git Hub Practice -- In Main
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          BYE FROM MAIN 1 ROSHAN !
+          HELLO ROSHAN!
         </a>
       </header>
     </div>
