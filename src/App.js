@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Git Hub Practice -- DEV BRANCH
+          Git Hub Practice -- In Dev
         </p>
         <a
           className="App-link"
