@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO ROSHAN !
+          BYE FROM MAIN ROSHAN !
         </a>
       </header>
     </div>
